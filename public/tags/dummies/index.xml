@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dummies on Aziz et al.</title>
-    <link>http://localhost:1313/tags/dummies/</link>
+    <link>https://azayz.github.io/tags/dummies/</link>
     <description>Recent content in Dummies on Aziz et al.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Mar 2025 02:01:58 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/dummies/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://azayz.github.io/tags/dummies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GPT2 From Scratch For Dummies!</title>
-      <link>http://localhost:1313/posts/gpt-2-from-scratch-for-dummies/</link>
+      <link>https://azayz.github.io/posts/gpt-2-from-scratch-for-dummies/</link>
       <pubDate>Sat, 01 Mar 2025 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/posts/gpt-2-from-scratch-for-dummies/</guid>
+      <guid>https://azayz.github.io/posts/gpt-2-from-scratch-for-dummies/</guid>
       <description>&lt;h1 id=&#34;gpt-2-implementation-from-scratch-for-dummies&#34;&gt;GPT-2 Implementation From Scratch For Dummies!&lt;/h1&gt;&#xA;&lt;p&gt;If you ever had trouble understanding the code behind the attention and the research paper&amp;rsquo;s complex code, this is for you.&lt;/p&gt;&#xA;&lt;p&gt;In this post, I break down the inner workings of a GPT-2 model—from token embeddings and positional encodings to multi-head self-attention and MLP blocks.&#xA;I&amp;rsquo;ll try to &amp;ldquo;dumb&amp;rdquo; things down and explain the details and intution behind the each line of the code as much as I can,&#xA;if you&amp;rsquo;re a dummy like me, I hope this helps.&lt;/p&gt;</description>
     </item>
   </channel>
