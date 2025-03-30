@@ -1,0 +1,38 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Aziz et al.'
+theme="archie"
+[params]
+	mode="dark"
+	useCDN=false
+	subtitle = "Hello, this is Aziz, documenting my learnings and observations. I hope this can be helpful to someone out there 😉. I like to write about AI, Software Engineering and other things."
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/azayz"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/ABelaweid"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
