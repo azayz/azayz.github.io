@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aziz et al.</title>
-    <link>https://azayz.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Aziz et al.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Mar 2025 02:01:58 +0530</lastBuildDate>
-    <atom:link href="https://azayz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GPT2 From Scratch For Dummies!</title>
-      <link>https://azayz.github.io/posts/gpt-2-from-scratch-for-dummies/</link>
+      <link>http://localhost:1313/posts/gpt-2-from-scratch-for-dummies/</link>
       <pubDate>Sat, 01 Mar 2025 02:01:58 +0530</pubDate>
-      <guid>https://azayz.github.io/posts/gpt-2-from-scratch-for-dummies/</guid>
+      <guid>http://localhost:1313/posts/gpt-2-from-scratch-for-dummies/</guid>
       <description>&lt;h1 id=&#34;gpt-2-implementation-from-scratch-for-dummies&#34;&gt;GPT-2 Implementation From Scratch For Dummies!&lt;/h1&gt;&#xA;&lt;p&gt;If you ever had trouble understanding the code behind the attention and the research paper&amp;rsquo;s complex code, this is for you.&lt;/p&gt;&#xA;&lt;p&gt;In this post, I break down the inner workings of a GPT-2 model—from token embeddings and positional encodings to multi-head self-attention and MLP blocks.&#xA;I&amp;rsquo;ll try to &amp;ldquo;dumb&amp;rdquo; things down and explain the details and intution behind the each line of the code as much as I can,&#xA;if you&amp;rsquo;re a dummy like me, I hope this helps.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://azayz.github.io/archives/</link>
+      <link>http://localhost:1313/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://azayz.github.io/archives/</guid>
+      <guid>http://localhost:1313/archives/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>https://azayz.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://azayz.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Hello, this is Aziz, documenting my learnings and observations. I hope this can be helpful to someone out there 😉.&#xA;I like to write about AI, Software Engineering and other things.&lt;/p&gt;&#xA;&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
