@@ -298,6 +298,8 @@ targets_flat = targets.view(-1)
 
 Then we calculate the cross entropy `cross_entropy` loss.
 
-
+## References;
+- NanoGPT from Andrej Karpathy, https://github.com/karpathy/nanoGPT
+- Andrej Karpathy's YouTube video explanation, https://www.youtube.com/watch?v=7xTGNNLPyMI&t=2702s
 
 
